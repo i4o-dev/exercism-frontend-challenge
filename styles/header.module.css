@@ -1,0 +1,34 @@
+.reputation {
+	--tw-shadow: 0px 4px 16px 0px rgba(79,114,205,.1);
+	--tw-shadow-colored: 0px 4px 16px 0px rgba(79,114,205,.1);
+	align-items: center;
+	background-clip: padding-box,border-box;
+	background-color: #ffffff;
+	background-image: linear-gradient(#fff,#fff),linear-gradient(#20f,#9e00ff);
+	background-image: linear-gradient(#130b43,#130b43),linear-gradient(#9e00ff,#20f);
+	background-origin: border-box;
+	border: 3px solid transparent;
+	border-radius: 100px;
+	box-shadow: 0 0 #0000,0 0 #0000,var(--tw-shadow);
+	color: #fbfcfe;
+	display: flex;
+	font-size: 16px;
+	font-weight: 600;
+	justify-content: center;
+	line-height: 200%;
+	padding-left: 16px;
+	padding-right: 16px;
+	position: relative;
+}
+
+.reputationIcon {
+	filter: invert(88%) sepia(37%) saturate(870%) hue-rotate(355deg) brightness(90%) contrast(96%);
+}
+
+.unseen:after {
+	content: "";
+	width: 15px;
+	height: 15px;
+	border-radius: 100%;
+	background-color: rgb(235, 87, 87);
+}
