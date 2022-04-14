@@ -3,6 +3,7 @@ import styles from '../styles/header.module.css'
 export default function Header() {
 	return <header className='w-full h-16 border-b border-[#EAECF3] flex items-center justify-center'>
 		<div className="container w-full h-16 flex items-center">
+			{/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
 			<a className='flex items-center mr-14' href="/">
 				<img src="/exercism-with-logo-black.svg" alt="Exercism Logo"/>
 			</a>
