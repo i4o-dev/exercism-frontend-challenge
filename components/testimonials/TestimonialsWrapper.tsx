@@ -4,7 +4,7 @@ import Footer from "./Footer";
 
 export default function TestimonialsWrapper() {
 	return (
-		<div className='w-full container flex flex-col items-center justify-center grow'>
+		<div className='w-full container px-8 flex flex-col items-center justify-center grow'>
 			<div className='w-[680px] h-[155px] flex flex-col items-center justify-center mt-10 mb-8'>
 				<img className='mb-3' src="/mood-happy.png" alt="Testimonials Icon"/>
 				<h2 className='text-[32px] leading-[44px] font-bold mb-5'>Testimonials I&apos;ve left</h2>
