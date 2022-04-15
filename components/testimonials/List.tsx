@@ -12,7 +12,7 @@ export default function List() {
 								<img
 									alt="User Avatar"
 									className='w-[42px] h-[42px] mr-4 rounded-full'
-									src="https://exercism.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHV5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1605f19abf53a68991613dcaa77aa706b70e93a5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQWNocEFjZz0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--e51c85b8d2c9669c631b964f2f35132e4e43e95f/avatar.jpg"
+									src="https://openpsychometrics.org/tests/characters/test-resources/pics/MF/5.jpg"
 								/>
 								<div className='flex flex-col items-start justify-center'>
 									<span className='font-medium leading-6 text-base'>Mitchell Pritchett</span>
